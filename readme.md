@@ -1,0 +1,1 @@
+<center><img src="./img/intro.jpg" align="center"></center>
