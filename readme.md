@@ -31,7 +31,7 @@ less than X and greater than Y
 ☑️ __Make a more appealing and user-friendly web-UI__. ☑️
 ☑️ __Enhance functionality__. ☑️
 
-This project was made in collaboration with @gzorpidis.
+This project was made in collaboration with [@gzorpidis].
 
 ---
 
